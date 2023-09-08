@@ -4,4 +4,7 @@ class PagesController < ApplicationController
 
 	def controle
 	end
+
+	def graficos
+	end
 end
