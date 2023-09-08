@@ -1,1 +1,1 @@
-Complete Ruby on Rails Developer
+An app to control your cash flow.
