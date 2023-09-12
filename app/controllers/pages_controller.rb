@@ -2,9 +2,7 @@ class PagesController < ApplicationController
 	def home 
 	end
 
-	def controle
+	def article
 	end
 
-	def graficos
-	end
 end
